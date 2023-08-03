@@ -1,0 +1,100 @@
+.qualificacoes_container {
+  max-width: 768px;
+}
+.qualificacoes_tabs {
+  display: flex;
+  justify-content: center;
+  margin-bottom: var(--mb-2);
+}
+.qualificacoes_button {
+  font-size: var(--h3-font-size);
+  font-weight: var(--font-medium);
+  color: var(--title-color);
+  margin: 0 var(--mb-1);
+  cursor: pointer;
+}
+.qualificacoes_button:hover {
+  color: var(--title-color-dark);
+}
+.qualificacoes_icon {
+  font-size: 1.8rem;
+  margin-right: var(--mb-0-25);
+}
+.qualificacoes_active {
+  color: var(--title-color-dark);
+}
+.qualificacoes_sections {
+  display: grid;
+  grid-template-columns: 0.5fr;
+  justify-content: center;
+}
+.qualificacoes_content {
+  display: none;
+}
+.qualificacoes_content-active {
+  display: block;
+}
+.qualificacoes_data {
+  display: grid;
+  grid-template-columns: 1fr max-content 1fr;
+  column-gap: 1.5rem;
+}
+.qualificacoes_title {
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+}
+.qualificacoes_subtitle {
+  display: inline-block;
+  font-size: var(--small-font-size);
+  margin-bottom: var(--mb-1);
+}
+.qualificacoes_calendar {
+  font-size: var(--small-font-size);
+}
+.qualificacoes_rounder {
+  display: inline-block;
+  width: 13px;
+  height: 13px;
+  background-color: var(--text-color);
+  border-radius: 50%;
+}
+.qualificacoes_line {
+  display: block;
+  width: 1px;
+  height: 100%;
+  background-color: var(--text-color);
+  transform: translate(6px, -7px);
+}
+
+/*=============== BREAKPOINTS ===============*/
+/* For large devices */
+@media screen and (max-width: 992px) {
+  .qualificacoes_container {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+/* For medium devices */
+@media screen and (max-width: 768px) {
+  .qualificacoes_container {
+    margin-left: var(--mb-1-5);
+    margin-right: var(--mb-1-5);
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .qualificacoes_sections {
+    grid-template-columns: initial;
+  }
+  .qualificacoes_button {
+    margin: 0 var(--mb-0-75);
+  }
+}
+
+/* For small devices */
+@media screen and (max-width: 350px) {
+  .qualificacoes_data {
+    gap: 0.5rem;
+  }
+}
