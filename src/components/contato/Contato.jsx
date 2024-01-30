@@ -27,9 +27,9 @@ const Contato = () => {
               <i className="bx bx-mail-send contato_card-icon"></i>
 
               <h3 className="contato_card-title">Gmail</h3>
-              <span className="contato_card-data">victorlirio4@gmail.com</span>
+              <span className="contato_card-data">jugaion1210@gmail.com</span>
 
-              <a href="mailto:victorlirio4@gmail.com.com" className="contato_button">
+              <a href="mailto:jugaion1210@gmail.com.com" className="contato_button">
                 Mande uma mensagem {" "}
                 <i className="bx bx-right-arrow-alt contato_button-icon"></i>
               </a>
@@ -39,9 +39,9 @@ const Contato = () => {
               <i className="bx bxl-whatsapp contato_card-icon"></i>
 
               <h3 className="contato_card-title">Whatsapp</h3>
-              <span className="contato_card-data">19 98238-5269</span>
+              <span className="contato_card-data">19 99674-2406</span>
 
-              <a href="https://api.whatsapp.com/send?phone=19982385269&text=Olá Victor, tudo bem?" className="contato_button">
+              <a href="https://api.whatsapp.com/send?phone=19996742406&text=Olá Juliana, tudo bem?" className="contato_button">
                 Mande uma mensagem {" "}
                 <i className="bx bx-right-arrow-alt contato_button-icon"></i>
               </a>

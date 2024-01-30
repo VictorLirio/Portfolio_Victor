@@ -48,12 +48,12 @@ function Qualificacoes() {
           >
             <div className="qualificacoes_data">
               <div>
-                <h3 className="qualificacoes_title">Desenvolvedor FullStack</h3>
+                <h3 className="qualificacoes_title">Empreendedora</h3>
                 <span className="qualificacoes_subtitle">
-                  EMP - Sistemas e Serviços
+                  JuGaion Doces
                 </span>
                 <div className="qualificacoes_calendar">
-                  <i className="uil uil-calendar-alt">2022 - 2023</i>
+                  <i className="uil uil-calendar-alt">2018 - 2022</i>
                 </div>
               </div>
               <div>
@@ -62,38 +62,7 @@ function Qualificacoes() {
               </div>
             </div>
 
-            <div className="qualificacoes_data">
-              <div></div>
-
-              <div>
-                <span className="qualificacoes_rounder"></span>
-                <span className="qualificacoes_line"></span>
-              </div>
-
-              <div>
-                <h3 className="qualificacoes_title">Desenvolvedor WEB</h3>
-                <span className="qualificacoes_subtitle">Freelancer</span>
-                <div className="qualificacoes_calendar">
-                  <i className="uil uil-calendar-alt">2021 - 2022</i>
-                </div>
-              </div>
-            </div>
-
-            <div className="qualificacoes_data">
-              <div>
-                <h3 className="qualificacoes_title">Auxiliar de T.I</h3>
-                <span className="qualificacoes_subtitle">
-                  Oficina do estudante
-                </span>
-                <div className="qualificacoes_calendar">
-                  <i className="uil uil-calendar-alt">2022 - 2022</i>
-                </div>
-              </div>
-              <div>
-                <span className="qualificacoes_rounder"></span>
-                <span className="qualificacoes_line"></span>
-              </div>
-            </div>
+            
           </div>
 
           <div
@@ -105,12 +74,12 @@ function Qualificacoes() {
           >
             <div className="qualificacoes_data">
               <div>
-                <h3 className="qualificacoes_title">Ciência da Computação</h3>
+                <h3 className="qualificacoes_title">Analise e Desenvolvimento de Sistemas</h3>
                 <span className="qualificacoes_subtitle">
                   UNIP - Universidade Paulista
                 </span>
                 <div className="qualificacoes_calendar">
-                  <i className="uil uil-calendar-alt">2020 - Presente</i>
+                  <i className="uil uil-calendar-alt">2023 - Presente</i>
                 </div>
               </div>
 

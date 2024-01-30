@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className='footer'>
       <div className="footer_title">
-        <h1 className="footer_title">Victor</h1>
+        <h1 className="footer_title">Juliana</h1>
 
         <ul className="footer_list">
           <li>
@@ -18,20 +18,20 @@ const Footer = () => {
         </ul>
 
         <div className="footer_social">
-        <a href="https://www.instagram.com/vitera_dias" className="footer_social-link" target="_blank" rel="noreferrer">
+        <a href="https://www.instagram.com/ju.gaion" className="footer_social-link" target="_blank" rel="noreferrer">
           <i className="bx bxl-instagram"></i>
         </a>
 
-        <a href="https://www.linkedin.com/in/victordomingos-dev/" className="footer_social-link" target="_blank" rel="noreferrer">
+        <a href="https://www.linkedin.com/in/juliana-gaion/" className="footer_social-link" target="_blank" rel="noreferrer">
         <i className="bx bxl-linkedin"></i>
         </a>
         
-        <a href="https://github.com/VictorLirio" className="footer_social-link" target="_blank" rel="noreferrer">
+        <a href="https://github.com/JuGaion" className="footer_social-link" target="_blank" rel="noreferrer">
         <i className="bx bxl-github"></i>
         </a>
         </div>
 
-        <span className="footer_copy">&#169; VictorDias. All rigths reserved</span>
+        <span className="footer_copy">&#169; JulianaGaion. All rigths reserved</span>
       </div>
     </footer>
   )

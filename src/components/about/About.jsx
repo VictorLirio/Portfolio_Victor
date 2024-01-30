@@ -1,7 +1,7 @@
 import React from 'react'
 import "./about.css";
-import AboutImg from "../../assets/Foto_social.jpg";
-import Curriculo from "../../assets/Curriculo_Victor.pdf";
+import AboutImg from "../../assets/Foto_Ju.jpg";
+import Curriculo from "../../assets/Curriculo_Juliana_Gaion.pdf";
 import Info from './Info';
 
 function about() {
@@ -14,9 +14,9 @@ function about() {
           <img src={AboutImg} alt="" className="sobre_img" />
           <div className="sobre_data">
             <Info/>
-            <p className="sobre_description">Desenvolvedor Backend, Eu trabalhei com alguns sistemas feitos em Java 
-            e tambem feitos em Python, Eu tenho anos de experiencia e 
-            já trabalhei como freelancer, tendo 100% de entrega dos projetos. </p>
+            <p className="sobre_description">Desenvolvedora Web, Eu trabalhei com alguns sistemas feitos em JavaScript 
+            e tambem feitos em C#, Eu tenho experiencia e 
+            já trabalhei EM ALGUNS PROJETOS, tendo 100% de entrega dos projetos. </p>
             <a download= "" href={Curriculo} className="button button--flex">Download Curriculo
             <svg
                 class="button__icon"

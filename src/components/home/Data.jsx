@@ -3,7 +3,7 @@ import React from "react";
 const Social = () => {
   return (
     <div className="home_data">
-      <h1 className="home_title"> Victor Dias
+      <h1 className="home_title"> Juliana Gaion
       <svg
                   width="36"
                   height="36"
@@ -54,8 +54,8 @@ const Social = () => {
                   ></path>
        </svg>
       </h1>
-      <h3 className="home_subtitle">Desenvolvedor Back-end</h3>
-      <p className="home_description">Sou um desenvolvedor criativo que estuda programação desde os 17 anos 
+      <h3 className="home_subtitle">Desenvolvedora Web</h3>
+      <p className="home_description">Sou um desenvolvedora criativa que ama programação desde SEMPRE 
       e que tem como virtude o <strong>TRABALHO DURO</strong></p>
       <a href="contato" className="button button--flex">
         Diga oi
