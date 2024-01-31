@@ -15,7 +15,7 @@ function about() {
           <div className="sobre_data">
             <Info/>
             <p className="sobre_description">Desenvolvedora Web, Eu trabalhei com alguns sistemas feitos em JavaScript 
-            e tambem feitos em C#, Eu tenho experiencia e 
+            e tambem feitos em React, Eu tenho experiencia e 
             já trabalhei EM ALGUNS PROJETOS, tendo 100% de entrega dos projetos. </p>
             <a download= "" href={Curriculo} className="button button--flex">Download Curriculo
             <svg
