@@ -47,17 +47,6 @@ const Contato = () => {
               </a>
             </div>
 
-            <div className="contato_card">
-              <i className="bx bx-mail-send contato_card-icon"></i>
-
-              <h3 className="contato_card-title">Outlook</h3>
-              <span className="contato_card-data">victordias_jobs@hotmail.com</span>
-
-              <a href="mailto:victordias_jobs@hotmail.com.com" className="contato_button">
-                Mande uma mensagem {" "}
-                <i className="bx bx-right-arrow-alt contato_button-icon"></i>
-              </a>
-            </div>
           </div>
         </div>
 
