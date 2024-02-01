@@ -32,7 +32,7 @@ function Projetos() {
 
 
               </p>
-
+              <span></span>
               <ul className="projetos_modal-projetos grid ">
                 <li className="projetos_modal-projeto">
                   <i className="uil uil-check-circle projetos-modal-icon"></i>
@@ -42,7 +42,7 @@ function Projetos() {
                   </p>
                 </li>
               </ul>
-
+              <span></span>
               <ul className="projetos_modal-projetos grid ">
                 <li className="projetos_modal-projeto">
                   <i className="uil uil-check-circle projetos-modal-icon"></i>
@@ -51,7 +51,7 @@ function Projetos() {
                   </p>
                 </li>
               </ul>
-
+              <span></span>
               <ul className="projetos_modal-projetos grid ">
                 <li className="projetos_modal-projeto">
                   <i className="uil uil-check-circle projetos-modal-icon"></i>
@@ -61,12 +61,12 @@ function Projetos() {
                   </p>
                 </li>
               </ul>
-
+              <span></span>
               <p className="projetos-modal-description">
               Criação de sites (JavaScript, React, Node, SQL)
 
               </p>
-
+<span></span>
               <ul className="projetos_modal-projetos grid ">
                 <li className="projetos_modal-projeto">
                   <i className="uil uil-check-circle projetos-modal-icon"></i>
@@ -108,7 +108,7 @@ function Projetos() {
               <p className="projetos-modal-description">
               Desenvolvimento de um sistema interno (PHP e React)
               </p>
-
+              <span></span>
               <ul className="projetos_modal-projetos grid ">
                 <li className="projetos_modal-projeto">
                   <i className="uil uil-check-circle projetos-modal-icon"></i>
@@ -117,7 +117,7 @@ function Projetos() {
                   </p>
                 </li>
               </ul>
-
+              <span></span>
               <ul className="projetos_modal-projetos grid ">
                 <li className="projetos_modal-projeto">
                   <i className="uil uil-check-circle projetos-modal-icon"></i>
@@ -128,11 +128,11 @@ function Projetos() {
                   </p>
                 </li>
               </ul>
-
+              <span></span>
               <p className="projetos-modal-description">
               Desenvolvimento do sistema de contratos (Java e SQL)
               </p>
-
+              <span></span>
               <ul className="projetos_modal-projetos grid ">
                 <li className="projetos_modal-projeto">
                   <i className="uil uil-check-circle projetos-modal-icon"></i>
@@ -141,7 +141,7 @@ function Projetos() {
                   </p>
                 </li>
               </ul>
-
+              <span></span>
               <ul className="projetos_modal-projetos grid ">
                 <li className="projetos_modal-projeto">
                   <i className="uil uil-check-circle projetos-modal-icon"></i>
@@ -150,7 +150,7 @@ function Projetos() {
                   </p>
                 </li>
               </ul>
-
+              <span></span>
               <ul className="projetos_modal-projetos grid ">
                 <li className="projetos_modal-projeto">
                   <i className="uil uil-check-circle projetos-modal-icon"></i>
@@ -182,7 +182,7 @@ function Projetos() {
               <p className="projetos-modal-description">
               Desenvolvimento do projeto “Social” (Java e SQL)
               </p>
-
+              <span></span>
               <ul className="projetos_modal-projetos grid ">
                 <li className="projetos_modal-projeto">
                   <i className="uil uil-check-circle projetos_modal-icon "></i>
@@ -191,7 +191,7 @@ function Projetos() {
                   </p>
                 </li>
               </ul>
-
+              <span></span>
               <ul className="projetos_modal-projetos grid ">
                 <li className="projetos_modal-projeto">
                   <i className="uil uil-check-circle projetos-modal-icon"></i>
@@ -200,7 +200,7 @@ function Projetos() {
                   </p>
                 </li>
               </ul>
-
+              <span></span>
               <ul className="projetos_modal-projetos grid ">
                 <li className="projetos_modal-projeto">
                   <i className="uil uil-check-circle projetos-modal-icon"></i>
@@ -209,7 +209,7 @@ function Projetos() {
                   </p>
                 </li>
               </ul>
-
+              <span></span>
               <ul className="projetos_modal-projetos grid ">
                 <li className="projetos_modal-projeto">
                   <i className="uil uil-check-circle projetos-modal-icon"></i>
@@ -218,7 +218,7 @@ function Projetos() {
                   </p>
                 </li>
               </ul>
-
+              <span></span>
               <ul className="projetos_modal-projetos grid ">
                 <li className="projetos_modal-projeto">
                   <i className="uil uil-check-circle projetos-modal-icon"></i>
