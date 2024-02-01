@@ -50,7 +50,7 @@ function Qualificacoes() {
               <div>
                 <h3 className="qualificacoes_title">Analista de Desenvolvimento de SoftWare</h3>
                 <span className="qualificacoes_subtitle">
-                Storaze
+                  Storaze
                 </span>
                 <div className="qualificacoes_calendar">
                   <i className="uil uil-calendar-alt">2023 - 2023</i>
@@ -65,14 +65,13 @@ function Qualificacoes() {
             <div className="qualificacoes_data">
 
               <div>
-                <span className="qualificacoes_rounder"></span>
-                <span className="qualificacoes_line"></span>
-              </div>
-
-              <div>
+                <div>
+                  <span className="qualificacoes_rounder"></span>
+                  <span className="qualificacoes_line"></span>
+                </div>
                 <h3 className="qualificacoes_title">Estagio Desenvolvimento Full Stack</h3>
                 <span className="qualificacoes_subtitle">
-                EMP - Sistemas e Serviços
+                  EMP - Sistemas e Serviços
                 </span>
                 <div className="qualificacoes_calendar">
                   <i className="uil uil-calendar-alt">2022 - 2023</i>
@@ -84,7 +83,7 @@ function Qualificacoes() {
               <div>
                 <h3 className="qualificacoes_title">Auxiliar de T.I</h3>
                 <span className="qualificacoes_subtitle">
-                Storaze
+                  Storaze
                 </span>
                 <div className="qualificacoes_calendar">
                   <i className="uil uil-calendar-alt">2022 - 2022 </i>
@@ -97,16 +96,16 @@ function Qualificacoes() {
             </div>
 
             <div className="qualificacoes_data">
-              
+
               <div>
-                <span className="qualificacoes_rounder"></span>
-                <span className="qualificacoes_line"></span>
-              </div>
-              
-              <div>
+                <div>
+                  <span className="qualificacoes_rounder"></span>
+                  <span className="qualificacoes_line"></span>
+                </div>
+
                 <h3 className="qualificacoes_title">Desenvolvedor web freelancer</h3>
                 <span className="qualificacoes_subtitle">
-                Freelance
+                  Freelance
                 </span>
                 <div className="qualificacoes_calendar">
                   <i className="uil uil-calendar-alt">2021 - 2022</i>
@@ -114,7 +113,7 @@ function Qualificacoes() {
               </div>
             </div>
 
-            
+
           </div>
 
           <div
@@ -162,7 +161,7 @@ function Qualificacoes() {
               <div>
                 <h3 className="qualificacoes_title">Curso de Python 3 </h3>
                 <span className="qualificacoes_subtitle">
-                Udemy
+                  Udemy
                 </span>
                 <div className="qualificacoes_calendar">
                   <i className="uil uil-calendar-alt">141 horas</i>
@@ -178,14 +177,14 @@ function Qualificacoes() {
             <div className="qualificacoes_data">
 
               <div>
-                <span className="qualificacoes_rounder"></span>
-                <span className="qualificacoes_line"></span>
-              </div>
+                <div>
+                  <span className="qualificacoes_rounder"></span>
+                  <span className="qualificacoes_line"></span>
+                </div>
 
-              <div>
                 <h3 className="qualificacoes_title">Java COMPLETO </h3>
                 <span className="qualificacoes_subtitle">
-                Udemy
+                  Udemy
                 </span>
                 <div className="qualificacoes_calendar">
                   <i className="uil uil-calendar-alt">54 horas</i>
@@ -198,7 +197,7 @@ function Qualificacoes() {
               <div>
                 <h3 className="qualificacoes_title">PHP do Zero </h3>
                 <span className="qualificacoes_subtitle">
-                Udemy
+                  Udemy
                 </span>
                 <div className="qualificacoes_calendar">
                   <i className="uil uil-calendar-alt">19 horas</i>
