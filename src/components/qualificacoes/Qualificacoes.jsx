@@ -63,12 +63,12 @@ function Qualificacoes() {
             </div>
 
             <div className="qualificacoes_data">
-
+              <div></div>
               <div>
-                <div>
-                  <span className="qualificacoes_rounder"></span>
-                  <span className="qualificacoes_line"></span>
-                </div>
+                <span className="qualificacoes_rounder"></span>
+                <span className="qualificacoes_line"></span>
+              </div>
+              <div>
                 <h3 className="qualificacoes_title">Estagio Desenvolvimento Full Stack</h3>
                 <span className="qualificacoes_subtitle">
                   EMP - Sistemas e Serviços
@@ -96,13 +96,13 @@ function Qualificacoes() {
             </div>
 
             <div className="qualificacoes_data">
+              <div></div>
+              <div>
+                <span className="qualificacoes_rounder"></span>
+                <span className="qualificacoes_line"></span>
+              </div>
 
               <div>
-                <div>
-                  <span className="qualificacoes_rounder"></span>
-                  <span className="qualificacoes_line"></span>
-                </div>
-
                 <h3 className="qualificacoes_title">Desenvolvedor web freelancer</h3>
                 <span className="qualificacoes_subtitle">
                   Freelance
@@ -175,13 +175,14 @@ function Qualificacoes() {
             </div>
 
             <div className="qualificacoes_data">
+              <div></div>
 
               <div>
-                <div>
-                  <span className="qualificacoes_rounder"></span>
-                  <span className="qualificacoes_line"></span>
-                </div>
+                <span className="qualificacoes_rounder"></span>
+                <span className="qualificacoes_line"></span>
+              </div>
 
+              <div>
                 <h3 className="qualificacoes_title">Java COMPLETO </h3>
                 <span className="qualificacoes_subtitle">
                   Udemy
