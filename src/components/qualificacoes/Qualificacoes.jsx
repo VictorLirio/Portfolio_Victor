@@ -48,12 +48,12 @@ function Qualificacoes() {
           >
             <div className="qualificacoes_data">
               <div>
-                <h3 className="qualificacoes_title">Empreendedora</h3>
+                <h3 className="qualificacoes_title">Analista de Desenvolvimento de SoftWare</h3>
                 <span className="qualificacoes_subtitle">
-                  JuGaion Doces
+                  Storaze
                 </span>
                 <div className="qualificacoes_calendar">
-                  <i className="uil uil-calendar-alt">2018 - 2022</i>
+                  <i className="uil uil-calendar-alt">2023 - 2023</i>
                 </div>
               </div>
               <div>
@@ -62,7 +62,58 @@ function Qualificacoes() {
               </div>
             </div>
 
-            
+            <div className="qualificacoes_data">
+              <div></div>
+              <div>
+                <span className="qualificacoes_rounder"></span>
+                <span className="qualificacoes_line"></span>
+              </div>
+              <div>
+                <h3 className="qualificacoes_title">Estagio Desenvolvimento Full Stack</h3>
+                <span className="qualificacoes_subtitle">
+                  EMP - Sistemas e Serviços
+                </span>
+                <div className="qualificacoes_calendar">
+                  <i className="uil uil-calendar-alt">2022 - 2023</i>
+                </div>
+              </div>
+            </div>
+
+            <div className="qualificacoes_data">
+              <div>
+                <h3 className="qualificacoes_title">Auxiliar de T.I</h3>
+                <span className="qualificacoes_subtitle">
+                  Storaze
+                </span>
+                <div className="qualificacoes_calendar">
+                  <i className="uil uil-calendar-alt">2022 - 2022 </i>
+                </div>
+              </div>
+              <div>
+                <span className="qualificacoes_rounder"></span>
+                <span className="qualificacoes_line"></span>
+              </div>
+            </div>
+
+            <div className="qualificacoes_data">
+              <div></div>
+              <div>
+                <span className="qualificacoes_rounder"></span>
+                <span className="qualificacoes_line"></span>
+              </div>
+
+              <div>
+                <h3 className="qualificacoes_title">Desenvolvedor web freelancer</h3>
+                <span className="qualificacoes_subtitle">
+                  Freelance
+                </span>
+                <div className="qualificacoes_calendar">
+                  <i className="uil uil-calendar-alt">2021 - 2022</i>
+                </div>
+              </div>
+            </div>
+
+
           </div>
 
           <div
@@ -74,12 +125,12 @@ function Qualificacoes() {
           >
             <div className="qualificacoes_data">
               <div>
-                <h3 className="qualificacoes_title">Analise e Desenvolvimento de Sistemas</h3>
+                <h3 className="qualificacoes_title">Ciência da Computação</h3>
                 <span className="qualificacoes_subtitle">
                   UNIP - Universidade Paulista
                 </span>
                 <div className="qualificacoes_calendar">
-                  <i className="uil uil-calendar-alt">2023 - Presente</i>
+                  <i className="uil uil-calendar-alt">2020 - 2024</i>
                 </div>
               </div>
 
@@ -101,8 +152,62 @@ function Qualificacoes() {
                 <h3 className="qualificacoes_title">Desenvolvimento WEB</h3>
                 <span className="qualificacoes_subtitle">Udemy</span>
                 <div className="qualificacoes_calendar">
-                  <i className="uil uil-calendar-alt">2023 - 2023</i>
+                  <i className="uil uil-calendar-alt">118 horas</i>
                 </div>
+              </div>
+            </div>
+
+            <div className="qualificacoes_data">
+              <div>
+                <h3 className="qualificacoes_title">Curso de Python 3 </h3>
+                <span className="qualificacoes_subtitle">
+                  Udemy
+                </span>
+                <div className="qualificacoes_calendar">
+                  <i className="uil uil-calendar-alt">141 horas</i>
+                </div>
+              </div>
+
+              <div>
+                <span className="qualificacoes_rounder"></span>
+                <span className="qualificacoes_line"></span>
+              </div>
+            </div>
+
+            <div className="qualificacoes_data">
+              <div></div>
+
+              <div>
+                <span className="qualificacoes_rounder"></span>
+                <span className="qualificacoes_line"></span>
+              </div>
+
+              <div>
+                <h3 className="qualificacoes_title">Java COMPLETO </h3>
+                <span className="qualificacoes_subtitle">
+                  Udemy
+                </span>
+                <div className="qualificacoes_calendar">
+                  <i className="uil uil-calendar-alt">54 horas</i>
+                </div>
+              </div>
+
+            </div>
+
+            <div className="qualificacoes_data">
+              <div>
+                <h3 className="qualificacoes_title">PHP do Zero </h3>
+                <span className="qualificacoes_subtitle">
+                  Udemy
+                </span>
+                <div className="qualificacoes_calendar">
+                  <i className="uil uil-calendar-alt">19 horas</i>
+                </div>
+              </div>
+
+              <div>
+                <span className="qualificacoes_rounder"></span>
+                <span className="qualificacoes_line"></span>
               </div>
             </div>
           </div>
